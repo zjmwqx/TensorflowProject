@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/xiachi/PycharmProjects/credit_card/DeepLearning/my_deepnlp/bi_lstm/ckpt/pos_bilstm.ckpt"
+all_model_checkpoint_paths: "/Users/xiachi/PycharmProjects/credit_card/DeepLearning/my_deepnlp/bi_lstm/ckpt/pos_bilstm.ckpt"
